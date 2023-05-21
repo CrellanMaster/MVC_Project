@@ -1,0 +1,11 @@
+{
+  "name": "crellan/pdo_crud",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Crellan\\PdoCrud\\": "src/",
+      "App\\": "public/"
+    }
+  },
+  "require": {}
+}
