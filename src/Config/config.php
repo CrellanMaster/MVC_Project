@@ -9,4 +9,4 @@ define("DB_PASS", "");
 define("DB_NAME", "app");
 
 //Defini a URL do site
-define("BURL", "http://myapp.com.br/");
+define("BURL", "https://myapp.com.br/");
